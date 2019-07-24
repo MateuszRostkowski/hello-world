@@ -27,3 +27,5 @@ This is horizontal line
 
 -------------------------------------------------------------------------------
 
+
+> **Note:** Markdown language is best for documentation
